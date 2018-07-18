@@ -84,7 +84,7 @@ The thing to remember about these methods is that they modify the variable in pl
 var number = 10
 
 function add5() {
-  number + -5 = 5
+  1+4 = 5
 }
 
 function divideBy3() {
