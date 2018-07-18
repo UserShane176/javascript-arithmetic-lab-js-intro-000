@@ -83,8 +83,8 @@ The thing to remember about these methods is that they modify the variable in pl
 ``` javascript
 var number = 10
 
-function add5(a, b) {
-  return a+b
+function add5() {
+  number += 5
 }
 
 function divideBy3() {
